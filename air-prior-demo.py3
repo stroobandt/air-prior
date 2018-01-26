@@ -7,8 +7,8 @@ REQUIRES
 
 
 USAGE
-    $ chmod +x repeater.py3
-    $ ./repeater.py3
+    $ chmod +x air-prior-demo.py3
+    $ ./air-prior-demo.py3
 
 
 COPYRIGHT
