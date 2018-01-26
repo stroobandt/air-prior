@@ -7,8 +7,8 @@ REQUIRES
 
 
 USAGE
-    $ chmod +x on0nl.py3
-    $ ./on0nl.py3
+    $ chmod +x air-prior-rpi.py3
+    $ ./air-prior-rpi.py3
 
 
 COPYRIGHT
